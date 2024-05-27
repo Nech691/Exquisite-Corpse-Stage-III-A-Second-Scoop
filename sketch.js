@@ -8,6 +8,7 @@ let iceCreamY = 600;
 let vanButton,chocButton,strawButton,reSetButton;
 let line = 0;
 let VL, CH, SW; // -> Image variables
+let startAgainElement; // -> Keeping track of text on screen
 
 function preload(){ // -> Preloading images
   VL = loadImage('Images/VL.png');
@@ -163,17 +164,16 @@ function resetIcecream (){     // resets icecream
     scoopCountS = iceCreamY - 5; // -> Reset scoop counts 
     line = 0;
     drawButtons();
+
 }
 
 
 function startAgain(){  //Start again text
 
-  let startAgain = createElement('h1','START AGAIN');
-  startAgain.position(width/3,height/2);
-  startAgain.style('color', 'black');
-  startAgain.center();
-  drawButtons(); // -> Keep buttons when game is over 
-  
+  startAgainElement = createElement('h1','START AGAIN');
+  startAgainElement.position(width/3,height/2);
+  startAgainElement.style('color', 'black');
+  startAgainElement.center();
 
 }
 
