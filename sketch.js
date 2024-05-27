@@ -169,10 +169,12 @@ function resetIcecream (){     // resets icecream
 
 
 function startAgain(){  //Start again text
-
+  
+  let RefPage = createElement('h1', '*Refresh the page to start again*')
+  RefPage.position(width/3 - 100, height/2 + 50);
   startAgainElement = createElement('h1','START AGAIN');
-  startAgainElement.position(width/3,height/2);
-  startAgainElement.style('color', 'black');
+  startAgainElement.position(width/3, height/2);
+  startAgainElement.style('color', 'black'); 
   startAgainElement.center();
 
 }
