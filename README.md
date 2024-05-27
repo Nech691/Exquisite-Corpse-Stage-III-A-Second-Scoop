@@ -43,11 +43,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 I wanted this sketch to be a bit playful while still having an underlying theme of the passing of time from the previous brief.*
 
 ### 🟩 Stage 3
-- Name/Alias: N J R Echer
-- Github account: Nech691
+- Name/Alias:
+- Github account:
 - Published webpage for stage 3:
 
-*For the third stage of this assignment, I decided to modify Emma's modified "A Second Scoop" project to add a visual count of how many scoops of each ice cream have been added to the ice cream so far. Additionally, I also made it so that the buttons remain on screen when the "game" is over, and changes the style of the buttons to be a bit more visually representative of what each button does (adding self-drawn images of melting icecream)*
+*... comments to be added here*
 
 ### 🟦 Stage 4
 - Name/Alias:
