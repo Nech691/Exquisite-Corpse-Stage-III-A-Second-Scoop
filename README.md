@@ -43,11 +43,11 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 I wanted this sketch to be a bit playful while still having an underlying theme of the passing of time from the previous brief.*
 
 ### 🟩 Stage 3
-- Name/Alias:
-- Github account:
-- Published webpage for stage 3:
+- Name/Alias: N J R Echer 
+- Github account: Nech691
+- Published webpage for stage 3: https://nech691.github.io/Exquisite-Corpse-Stage-III-A-Second-Scoop/ 
 
-*... comments to be added here*
+*For the third stage (adding a dataset visualisation) I wanted the user to know how many scoops of each colour/flavour they have added to the cone. To do so, I altered the mouse press function to not only add a scoop to the icecream cone, but an additional scoop next to it, where each flavour would be a separate stack. This way, users can easily visualise how many scoops of each flavour they have. I also added a drip drawing (that I made using Procreate on the Ipad) to the background of each flavour adding button, and instructions on how to reset the icecream when it had become too tall (thus triggering the "start over" animation)*
 
 ### 🟦 Stage 4
 - Name/Alias:
